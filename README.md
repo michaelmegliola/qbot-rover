@@ -9,6 +9,8 @@ Take a peek at the code.  You'll see that it imports our Stepper/Steppers librar
 
 Follow the PDF instructions to set up your Pi with the OS, python, GPIO libraries.  Optionally, you can plug in a Raspberry Pi Camera module and get live video back from your rover (wirelessly!) in real time if you also install the mjpeg streaming package.
 
+If you use a camera, you may want to print out the included STL file to give you a place to stick the camera unit.  The part mounts to your Qbot using the same bolts that hold your Raspberry Pi to the robot frame, on the side closest to the camera header (opposite side from the memory card slot).  It's sized for the "spy camera" sized module; feel free to hack the part in TinkerCAD if you need a bigger mount surface, but using some double-sided tape will work fine.
+
 Have fun, let us know how you're doing, and reach out if you need help!
 
 Software - michael@loislab.org

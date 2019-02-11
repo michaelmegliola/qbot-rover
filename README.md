@@ -3,7 +3,7 @@ Simple 'Mars rover' example using the Qbot hardware
 
 This is intended to be used with the QBot hardware project, the full repo for that can be found at https://github.com/LoisLab/qbot/
 
-Maybe you've just build your robot and you want to test the hardware, or you're not quite ready to dive into machine learning, or maybe you have other ideas for your Qbot.  This project is a simple way to make sure everything is working and get you more familiar with the Raspberry Pi, python, and talking to external parts like stepper motors.
+Maybe you've just built your robot and you want to test the hardware, or you're not quite ready to dive into machine learning, or maybe you have other ideas for your Qbot.  This project is a simple way to make sure everything is working and get you more familiar with the Raspberry Pi, python, and talking to external parts like stepper motors.
 
 Take a peek at the code.  You'll see that it imports our Stepper/Steppers libraries and creates a new Rover class.  The rover, as implemented, can move forward, left, or right.  It's capable of a lot more, but you'll have to expand it on your own.
 
